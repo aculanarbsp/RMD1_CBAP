@@ -36,6 +36,7 @@ dependencies:
   - tensorflow=2.0.*
   - tensorflow-estimator=2.0.0
   - tqdm=4.46
+  - matplotlib
   - pip:
     - bspline==0.1.1
     - pymc3==3.8
