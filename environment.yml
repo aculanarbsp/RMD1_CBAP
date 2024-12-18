@@ -5,6 +5,7 @@ channels:
   - pytorch
   - defaults
 dependencies:
+  - python=3.6.15
   - arviz=0.6.*
   - h5py==2.10.0
   - gast=0.2.*

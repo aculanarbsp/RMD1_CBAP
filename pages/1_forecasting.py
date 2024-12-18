@@ -88,7 +88,7 @@ model_lstm = data_2yr_lstm['lstm']['model']
 # get the transformer
 
 scaler = StandardScaler()
-# scaler.mean_ = test_mean
+# scaler.mean_ = data_2yr_rnn['rnn]['']
 # scaler.scale_ = test_scale
 
 
